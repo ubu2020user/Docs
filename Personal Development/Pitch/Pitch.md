@@ -16,12 +16,12 @@
   - [4. Unique Value Proposition (USP)](#4-unique-value-proposition-usp)
   - [5. Business Model](#5-business-model)
   - [6. Traction (Achievements)](#6-traction-achievements)
-  - [7. Team & **C2A**](#7-team--c2a)
+  - [7. Team \& **C2A**](#7-team--c2a)
   - [8. Wrap Up](#8-wrap-up)
 - [After Script](#after-script)
   - [Analyze the language](#analyze-the-language)
   - [Practice and Memorize](#practice-and-memorize)
-    - [Excercise (& Versionize)](#excercise--versionize)
+    - [Excercise (\& Versionize)](#excercise--versionize)
     - [10 seconds pitch](#10-seconds-pitch)
     - [30 seconds pitch](#30-seconds-pitch)
   - [Pitchdeck](#pitchdeck)
@@ -57,6 +57,8 @@ Make them hungry for more. Create interest or wake it.
 ### Tips
 + Prepare **10** minutes, **5** minutes, **1** minute **Pitches**
 + The audience trusts a **confident** speaker
++ Branding!
+  + Stay in your brand scheme!
 + **Body language**
   + You are relaxed and on ease
   + Smile, natural gesticulation
