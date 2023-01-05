@@ -1,10 +1,23 @@
 # Firebase Init
+### Add Hash to Firebase Authorized Apps
 + Get Android SHA1 & SHA256
     + cd android/
     + ./gradlew-signing
 + Add them in firebase console und settings & android Project
+### Init Firebase in Project
+```bash
+$ firebase init
+
+? What do you want to use as your public directory? 
+
+$ build/web
+```
+
+### Init Flutterfire in Project
 + Run FlutterFire configure to download new google-services.json automatically
-+ flutter clean
+```bash
+$ flutterfire configure
+```
 
 # Stateful Widget
 + Be careful to update with via *setState* **if** a *fetch* is in the same build function
