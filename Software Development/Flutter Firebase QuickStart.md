@@ -1,8 +1,11 @@
 # Firebase Init
 + Get Android SHA1 & SHA256
-    + cd android/
-    + ./gradlew-signing
-+ Add them in firebase console und settings & android Project
+```bash
+$ cd android
+$ ./gradlew signingReport
+```   
+> Project Settings > General > Your Apps > Android > Add Fingerprint
++ Add them in firebase console and settings & android Project
 + Run FlutterFire configure to download new google-services.json automatically
 + flutter clean
 
