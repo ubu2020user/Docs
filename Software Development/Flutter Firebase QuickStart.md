@@ -1,4 +1,5 @@
 # Firebase Init
+### Add Hash to Firebase Authorized Apps
 + Get Android SHA1 & SHA256
 ```bash
 $ cd android
@@ -7,7 +8,9 @@ $ ./gradlew signingReport
 > Project Settings > General > Your Apps > Android > Add Fingerprint
 + Add them in firebase console and settings & android Project
 + Run FlutterFire configure to download new google-services.json automatically
-+ flutter clean
+```bash
+$ flutterfire configure
+```
 
 # Stateful Widget
 + Be careful to update with via *setState* **if** a *fetch* is in the same build function
