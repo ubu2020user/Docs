@@ -1,15 +1,32 @@
 # Firebase Init
+### Initialize Firebase in Flutter Project on new device
+```bash
+npm install -g firebase-tools
+``` 
+```bash
+dart pub global activate flutterfire_cli
+flutterfire configure
+``` 
+```bash
+flutter build web
+firebase init
+# public directory: build/web
+# Single-Page app?: yes
+# Setup automatic builds and deploys with GitHub?: no
+# Overwrite index.html?: no
+``` 
+
 ### Add Hash to Firebase Authorized Apps
 + Get Android SHA1 & SHA256
 ```bash
-$ cd android
-$ ./gradlew signingReport
+cd android
+./gradlew signingReport
 ```   
 > Project Settings > General > Your Apps > Android > Add Fingerprint
 + Add them in firebase console and settings & android Project
 + Run FlutterFire configure to download new google-services.json automatically
 ```bash
-$ flutterfire configure
+flutterfire configure
 ```
 
 # Stateful Widget
