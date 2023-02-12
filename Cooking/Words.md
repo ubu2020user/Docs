@@ -1,7 +1,7 @@
 # Table of Contents
 
 
-# Mireoix (itl. Soffritto)
+# Mirepoix (itl. Soffritto)
 *Mixture* of very finely *chopped* **carrot**, **onion** and **celery**   
 
 Starting point for:
