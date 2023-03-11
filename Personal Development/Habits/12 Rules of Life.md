@@ -48,10 +48,13 @@ Seek sacrifice rather than instant gratification. This sacrifice must be for the
 (Sigmund Freud suggests the same.)
 If you listen instead, without judgment, people will generally tell you everything they are thinking-and with little deceit. People will tell you the most amazing, absurd and intriguing details. Few of your conversations will be boring!
 ## 10. Be precise in your speech
+But that's not an effective solution. So, whenever you plan to achieve something, you must be xplicit and precise in your goals. Unclear goals can create unclear actions, which then can create unclear results. If you have a vague unease, you will struggle with it **until you define it explicitly and give it a concrete form**. Once you precisely identify the issue, you will likely realize you were far more afraid than you should've been. You now have a specific target to confront. And specificity lets you start challenging the chaos.
 
 ## 11. Do not bother children when they are skateboarding
+> The fundamental moral question is not how to shelter children completely from misadventure and failure, so they never experience any fear or pain, but how to maximize their learning so that useful knowledge may be gained with minimal cost. ~ Jordan Peterson
+
 ## 12. Pet a cat when you encounter one on the street
-helping
+To counteract potential nihilism, pay close attention to the love and beauty around you. This might be a sunset, flowers, or simply giving a cat a stroke. Life's too short to suffer.
 
 # Refs
-+ 12 Rules for Life Jordan Peterson
++ 12 Rules for Life Jordan Peterson by Storyshots
