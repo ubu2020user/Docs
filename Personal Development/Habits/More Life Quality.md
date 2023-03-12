@@ -75,6 +75,7 @@ Do this for deep and quality sleep:
 + No eating 2 hours before bed
 + Make your room cooler
 + Use blackout curtains
++ Ask your higher self to give you specific information while sleeping that you need to achieve something and to keep it in memory at wakeup 
 
 ## 7. Take a 30 minute walk in nature
 Nature is proven to help you:
@@ -94,4 +95,4 @@ Reading will strengthen your mind and also:
 > Just 30 pages a day will give you a huge return in life.
 
 # Refs
-+ 12 Rules for Life Jordan Peterson by Storyshots
++ Some Instagram Post
